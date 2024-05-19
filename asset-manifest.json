@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ToDo-App/static/js/main.a8389eee.js",
+    "static/js/992.71fcded1.js": "/ToDo-App/static/js/992.71fcded1.js",
+    "favicon.ico": "/ToDo-App/favicon.ico",
+    "index.html": "/ToDo-App/index.html",
+    "favicon-32.png": "/ToDo-App/favicon-32.png",
+    "favicon-16.png": "/ToDo-App/favicon-16.png",
+    "serve.json": "/ToDo-App/serve.json",
+    "manifest.json": "/ToDo-App/manifest.json",
+    "main.a8389eee.js.map": "/ToDo-App/static/js/main.a8389eee.js.map",
+    "992.71fcded1.js.map": "/ToDo-App/static/js/992.71fcded1.js.map"
+  },
+  "entrypoints": [
+    "static/js/992.71fcded1.js",
+    "static/js/main.a8389eee.js"
+  ]
+}
